@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "A demo to show how to build Facebook Messenger Chatbot with Node.js and Microsoft Bot Framework that can do math addition",
   "main": "app.js",
+  "engines": {
+    "node": "6.10.2"
+  },
   "dependencies": {
     "botbuilder": "^3.5.1",
     "mongodb": "^2.2.19",
@@ -14,5 +17,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Teerasej Jiraphatchandej",
-  "license": "GNU3"
+  "license": "GNU3",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bossthanawat/calbot-demo.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/bossthanawat/calbot-demo/issues"
+  },
+  "homepage": "https://github.com/bossthanawat/calbot-demo#readme"
 }
