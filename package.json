@@ -4,14 +4,12 @@
   "description": "A demo to show how to build Facebook Messenger Chatbot with Node.js and Microsoft Bot Framework that can do math addition",
   "main": "app.js",
   "engines": {
-    "node": "6.10.2"
+    "node": "6.11.0"
   },
   "dependencies": {
     "botbuilder": "^3.5.1",
     "mongodb": "^2.2.19",
     "restify": "^4.3.0",
-    "ejs": "2.5.6",
-    "express": "4.15.2"
   },
   "devDependencies": {},
   "scripts": {
